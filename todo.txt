@@ -1,0 +1,12 @@
+Condense code example page into one.
+Change example to the turnto-media-form.(No Lauren)
+
+Add details to how we profit.
+	developer time.
+		3rd party components.
+		sematically meaningful.
+		Self contained.
+	Software Quality
+		encapsulation.
+		automated testing.
+		documentation
